@@ -639,7 +639,7 @@
 // var arr1 = new Array();
 
 // // 3
-// var student = ["Abu Bakar", "Umar", "Usman", "Ali", "Muavia", "Hassan", "Hussain"];
+// var student = ["Mahnoor", "Khudija", "Ayesha", "Hafsa", "Javeria", "Safiya", "Fatimah"];
 
 // // 4
 // var number = [6, 11, 12, 13, 15, 20, 26];
@@ -658,7 +658,7 @@
 // }
 
 // // 8
-// var students = ["Muhammad", "Usama", "Aqeel"];
+// var students = ["Engr", "Maryum", "Khalid"];
 // var marks = [450, 300, 400];
 // for(var i=0; i<marks.length; i++){
 //     per = (marks[i]/500)*100;
@@ -757,24 +757,24 @@
 
 // // 13
 // var arr = [];
-// arr.push("Usama");
+// arr.push("Tooba");
 // document.write(arr + "<br>");
-// arr.push("Talha");
+// arr.push("Maryum");
 // document.write(arr + "<br>");
-// arr.push("Haris");
+// arr.push("Iffat");
 // document.write(arr + "<br>");
-// arr.push("Misal");
+// arr.push("Javeria");
 // document.write(arr + "<br>");
 
 // // 14
 // var arr = [];
-// arr.unshift("Usama");
+// arr.unshift("Tooba");
 // document.write(arr + "<br>");
-// arr.unshift("Talha");
+// arr.unshift("Maryum");
 // document.write(arr + "<br>");
-// arr.unshift("Haris");
+// arr.unshift("Iffat");
 // document.write(arr + "<br>");
-// arr.unshift("Misal");
+// arr.unshift("Javeria");
 // document.write(arr + "<br>");
 
 // // 15
@@ -786,7 +786,7 @@
 
 // // Assignment # 17-20
 // // 1
-// var student = [["Usama",22],["Haris",23]["Talha",23]];
+// var student = [["Maryum",22],["Nimra",23]["Fatima",23]];
 // document.write(student[1][1]);
 
 // // 2
